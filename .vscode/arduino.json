@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:uno",
+    "programmer": "ArduinoISP",
+    "port": "COM15",
+    "sketch": "examples\\TM1637Test\\TM1637Test.ino"
+}
