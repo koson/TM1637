@@ -1,7 +1,7 @@
 {
     "board": "arduino:avr:uno",
     "programmer": "ArduinoISP",
-    "output": "../build",
+    "output": "./build",
     "port": "COM15",
     "sketch": "examples\\TM1637Test\\TM1637Test.ino"
 }
